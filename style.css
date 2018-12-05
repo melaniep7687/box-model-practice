@@ -9,7 +9,7 @@
 #title {
     background: yellow;
     margin:50px 150px;
-    padding:50px 100px;
+    padding:10px 100px;
     
 }
 
@@ -18,7 +18,7 @@
     color: white;
     /*add CSS here*/
     margin:50px 150px;
-    padding:20px 100px;
+    padding:10px 100px;
 }
 
 .topic {
