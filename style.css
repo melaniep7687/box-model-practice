@@ -8,7 +8,8 @@
 
 #title {
     background: yellow;
-    /*add CSS here*/
+    margin:50px 150px;
+    padding:50px 100px;
     
 }
 
@@ -16,12 +17,21 @@
     background: black;
     color: white;
     /*add CSS here*/
-    
+    margin:50px 150px;
+    padding:20px 100px;
 }
 
 .topic {
     background: lightgray;
     /*add CSS here*/
-    
+     /*text-align: center*/
+     
+     /*margin-left: 50px;*/
+     /*margin-right:50px;*/
+     
+     /*padding: 10px 10px;*/
+     
+     width:100px;
+     margin: auto ;
 }
 
